@@ -13,8 +13,8 @@ export default function Info() {
                 <div className="info--details">
                     <h1 className="details_name">Alessandro Correa</h1>
                     <h3 className="details_role">Software Developer</h3>
-                    <a href="https://asmodaeuz.github.io/restaurant-menu-system/" target="_blank" className="details_site"><FontAwesomeIcon icon={faLink} />
-                        project: online menu system
+                    <a href="https://restaurant-menu-system.netlify.app/" target="_blank" className="details_site"><FontAwesomeIcon icon={faLink} />
+                        Project: restaurant menu system
                     </a>
                 </div>
                 <div className="info--buttons">
